@@ -1,0 +1,1 @@
+# This repo contains study material and codes related to Generative AI which I am using for my learning.
