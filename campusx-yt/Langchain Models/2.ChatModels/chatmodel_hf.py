@@ -10,4 +10,4 @@ llm=HuggingFaceEndpoint(
 model = ChatHuggingFace(llm=llm)
 result = model.invoke("what is capital of India") #ask question in invoke
 
-print(result.content)
+print(result.content) #print the answer
